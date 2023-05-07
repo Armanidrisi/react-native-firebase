@@ -36,4 +36,4 @@ This app is only for educational purposes and should not be used in production e
 
 ## 📧 Contact
 
-If you have any questions or feedback, feel free to contact me at [email address].
+If you have any questions or feedback, feel free to contact me at idrisiarman19@gmail.com.
